@@ -1,2 +1,2 @@
 # primeiro-repo
-repositorio de exemplo criado no sesi de Cajamr
+repositorio de exemplo criado no sesi de Cajamar
